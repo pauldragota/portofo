@@ -10,5 +10,5 @@ Pillow==7.0.0
 PyPDF2==1.26.0
 pyperclip==1.7.0
 requests==2.23.0
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
